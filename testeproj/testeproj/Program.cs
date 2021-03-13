@@ -10,6 +10,7 @@ namespace testeproj
     {
         static void Main(string[] args)
         {
+            console.writeline("Alteração realizada no github");
         }
     }
 }
